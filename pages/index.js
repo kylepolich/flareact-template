@@ -1,7 +1,8 @@
 export default function Index() {
   return (
-    <h1>
-      You're running React on the Edge!
-    </h1>
+    <div className="Index">
+      <h1>Data Skeptic Weekly Survey</h1>
+      <p>Coming soon</p>
+    </div>
   );
 }
